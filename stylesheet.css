@@ -1,12 +1,37 @@
 body {
-  background-color: #F0A8D0;
+  background-color: #5D3587;
+  font-family: 'Lato', lato-regular;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h1 {
-  color: navy;
+  font-family: 'Lato', lato-regular;
+  color: #392467;
   margin-left: 20px;
 }
 
+h2 {
+  font-family: 'Lato', lato-regular;
+  color: #392467;
+  margin-left: 20px;
+}
+
+p{
+  font-family: 'Lato', lato-regular;
+  color: #392467;
+  margin-left: 20px;
+}
+
+a {
+  font-family: 'Lato', lato-regular;
+  color: black;
+  margin-left: 20px;
+}
 div{
-	background-color: #F7B5CA;
+	background-color: #A367B1;
 }
