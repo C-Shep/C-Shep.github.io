@@ -1,5 +1,5 @@
 body {
-  background-color: #8C3061;
+  background-color: #0d0c0c;
   font-family: 'Lato', lato-regular;
 }
 
@@ -19,7 +19,7 @@ img {
 .grid-item {
   border: 1px solid rgba(0, 0, 0, 1);
   padding: 20px;
-    background-color: #D95F59;
+    background-color: #262222;
 }
 
 .lato-regular {
@@ -30,35 +30,34 @@ img {
 
 h1 {
   font-family: 'Lato', lato-regular;
-  color: #522258;
-  margin-left: 20px;
+  color: #7a7171;
 }
 
 h2 {
   font-family: 'Lato', lato-regular;
-  color: #522258;
-  margin-left: 20px;
+  color: #7a7171;
+
 }
 
 h3 {
   font-family: 'Lato', lato-regular;
-  color: #522258;
+  color: #7a7171;
 }
 
 p{
   font-family: 'Lato', lato-regular;
-  color: #522258;
+  color: #7a7171;
 }
 
 a {
   font-family: 'Lato', lato-regular;
   margin-left: 20px;
-  margin-right: 40px;
-  color: #fc8403;
+  margin-right: 20px;
+  color: #c9c9c9;
 }
 
 div{
-	background-color: #C63C51;
+	background-color: #141212;
 	padding: 40px;
 	margin: 40px;
 }
